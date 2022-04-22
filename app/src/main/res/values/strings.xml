@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Activity dan Intent</string>
+    <string name="login">Login</string>
+</resources>
